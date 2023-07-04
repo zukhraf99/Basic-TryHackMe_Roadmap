@@ -79,6 +79,7 @@ I will update this repository time-to-time; If you face any errors or for any su
 
   (Crypto CTFs are best for Learning)
 
+
 ## CRYPTO CTFs:
 
 ---
@@ -91,6 +92,14 @@ I will update this repository time-to-time; If you face any errors or for any su
 
 * [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
+* [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
+
+* [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
+
+* [TryHackMe | CTF collection Vol.1](https://tryhackme.com/room/ctfcollectionvol1)
+
+* [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+
 
 ## Tools:
 
@@ -101,6 +110,26 @@ I will update this repository time-to-time; If you face any errors or for any su
 * [TryHackMe | Metasploit intro](https://tryhackme.com/room/metasploitintro)
 
 * [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+
+* [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+
+* [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
+
+* [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
+
+* [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
+
+
+## Reconnaissance
+
+---
+
+* [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+
+* [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+
+* [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+
 
 
 ## Web Rooms:
@@ -121,15 +150,43 @@ I will update this repository time-to-time; If you face any errors or for any su
 
 * [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
+* [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
+
 
 ## Easy Web CTFs:
 
 ---
-
-* [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+* [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
 
 * [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
 
+* [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
+
+* [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
+
+
+## Privilege Escalation:
+
+---
+
+* [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
+
+* [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
+
+* [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
+
+* [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+
+
+## PrivEsc CTFs:
+
+* [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
+
+* [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+
+* [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+
+* [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
 
 
 
